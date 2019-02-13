@@ -10,7 +10,7 @@ import org.springframework.transaction.annotation.Propagation;
 import org.springframework.transaction.annotation.Transactional;
 
 /**
- * @author zgx
+ * @author GuangxiZhong
  */
 @Service
 public class UserService extends ServiceImpl<UserMapper, UserEntity> implements UserServiceI {

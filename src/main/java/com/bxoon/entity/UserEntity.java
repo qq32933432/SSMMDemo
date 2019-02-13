@@ -9,7 +9,7 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * Created by ZGX99 on 2018/1/17.
+ * @author GuangxiZhong
  */
 @TableName("T_USER")
 @Data
