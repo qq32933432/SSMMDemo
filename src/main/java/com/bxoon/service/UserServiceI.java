@@ -5,6 +5,7 @@ import com.bxoon.entity.UserEntity;
 
 /**
  * @author GuangxiZhong
+ * 
  */
 public interface UserServiceI extends IService<UserEntity> {
     void addUser(UserEntity userEntity);
